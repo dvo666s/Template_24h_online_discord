@@ -1,5 +1,6 @@
 {
-  "name": "Elmaystro",
+  "name": "mado
+  ",
   "version": "2.1.0",
   "description": "Elmaystro",
   "main": "Elmaystro.js",
