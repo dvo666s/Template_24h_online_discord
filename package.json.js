@@ -2,10 +2,10 @@
   "name": "mado
   ",
   "version": "2.1.0",
-  "description": "Elmaystro",
-  "main": "Elmaystro.js",
+  "description": "....",
+  "main": "index.js",
   "scripts": {
-    "start": "node Elmaystro.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "ascii-data-table": "^2.1.1",
